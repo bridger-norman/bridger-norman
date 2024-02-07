@@ -6,7 +6,7 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 
 ## Professional
 
-- 👨‍💼 Experience
+###👨‍💼 Experience
 - Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
 - Data Science Intern: LabStats(market-leading SaaS company), May 22 - September 22
 - 🌱 Education
