@@ -4,28 +4,31 @@ Hello, GitHub! 👋
 
 I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome to my GitHub profile!
 
-## professional
+## Professional
 
+- 👨‍💼 Experience
+                    - Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
+                    - Data Science Intern: LabStats(market-leading SaaS company), May 22 - September 22
 - 🌱 Education
-                    * Major: Data Science
-                    * Minor: Business Analytics
-                    * Minor: Finance
-                    * Certificate: Machine Learning
-                    * GPA: 3.97/4.0
-                    * Class: Senior
+                    - Major: Data Science
+                    - Minor: Business Analytics
+                    - Minor: Finance
+                    - Certificate: Machine Learning
+                    - GPA: 3.97/4.0
+                    - Class: Senior
 - 💻 Proficient in:
-                    • Python: Polars, PySpark, TensorFlow
-                    • R: Tidyverse, Predictive Modeling
-                    • Tableau, Power BI: DAX
-                    • SQL: SSAS, MySQL, CTEs
-                    • Excel: Lookups, Pivots, Macros
-- 🚀 Skills:
-                    • Effective Written and Oral Communication
-                    • Knowledge of Business and Finance
-                    • Problem Solving, Analytical Thinking
-                    • Statistical Hypothesis Testing
-                    • Decision Making, Leadership, Teamwork
-                    • Ability to quickly Adapt and Learn New Skills
+                    - Python: Polars, PySpark, TensorFlow
+                    - R: Tidyverse, Predictive Modeling
+                    - Tableau, Power BI: DAX
+                    - SQL: SSAS, MySQL, CTEs
+                    - Excel: Lookups, Pivots, Macros
+- ⭐ Skills:
+                    - Effective Written and Oral Communication
+                    - Knowledge of Business and Finance
+                    - Problem Solving, Analytical Thinking
+                    - Statistical Hypothesis Testing
+                    - Leadership, Teamwork, Decision Making
+                    - Ability to quickly Adapt and Learn New Skills
 
 
 ## Personal
