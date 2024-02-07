@@ -13,26 +13,23 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 
 ## Professional
 
-- 🌱 Education
+### 🌱 Education
 - Major: Data Science
 - Minor: Business Analytics
 - Minor: Finance
 - Certificate: Machine Learning
 - GPA: 3.97/4.0
 - Class: Senior
-- 
-- 👨‍💼 Experience
-- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
-- Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
-- 
-- 💻 Proficient in:
+
+   
+### 🧰 Tools
 - Python: Polars, PySpark, TensorFlow
 - R: Tidyverse, Predictive Modeling
 - Tableau, Power BI: DAX
 - SQL: SSAS, MySQL, CTEs
 - Excel: Lookups, Pivots, Macros
-- 
-- ⭐ Skills:
+  
+### ⭐ Skills
 - Effective Written and Oral Communication
 - Knowledge of Business and Finance
 - Problem Solving, Analytical Thinking
@@ -40,9 +37,16 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 - Leadership, Teamwork, Decision Making
 - Ability to quickly Adapt and Learn New Skills
 
+### 👨‍💼 Experience
+- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
+- Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
+
+
+
+  
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/bridgernorman/)) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/bridgernorman/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
