@@ -6,9 +6,6 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 
 ## Professional
 
-###👨‍💼 Experience
-- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
-- Data Science Intern: LabStats(market-leading SaaS company), May 22 - September 22
 - 🌱 Education
 - Major: Data Science
 - Minor: Business Analytics
@@ -16,6 +13,9 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 - Certificate: Machine Learning
 - GPA: 3.97/4.0
 - Class: Senior
+-👨‍💼 Experience
+- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
+- Data Science Intern: LabStats(market-leading SaaS company), May 22 - September 22
 - 💻 Proficient in:
 - Python: Polars, PySpark, TensorFlow
 - R: Tidyverse, Predictive Modeling
