@@ -47,6 +47,6 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/bridgernorman/) profile
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridgernorman/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
