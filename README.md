@@ -1,6 +1,4 @@
-# Bridger Norman
-
-<div>
+<div align = 'center' >
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
@@ -13,11 +11,13 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Personal
+---
 
+# Bridger Norman
 Hello, GitHub! 👋
 
 I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome to my GitHub profile!
+## Personal
 
 - 📖 In my free time I love to read fiction books, my favorite series thus far is Dune! I have aspirations one day to be an author and share stories with the world just like my favorite authors.
 - 🔪 I have an obsession for knives and all things EDC (Everyday Carry)! I always have at the bare minimum a pocket knife on me.
