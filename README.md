@@ -1,7 +1,9 @@
 ---
 <div align = 'center' >
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/polars_logo.png" title="Polars" alt="Polars" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/tidyverse.png"  title="TidyVerse" alt="TidyVerse" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg"  title="pyspark" alt="pyspark" width="40" height="40"/>&nbsp;
