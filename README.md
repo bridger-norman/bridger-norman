@@ -48,7 +48,9 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 - Ability to quickly Adapt and Learn New Skills
 
 ### 👨‍💼 Experience
-- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - Present
+- Data Science Consultant: DataThink, Feb 24 - Present
+- Technical Project Manager: Idaho Entrepreneur Center, Jan 24 - Jul 24
+- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - April 24
 - Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
 
 ## Personal
