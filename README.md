@@ -5,7 +5,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
    <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/tidyverse.png"  title="TidyVerse" alt="TidyVerse" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/ggplot2.png"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg"  title="pyspark" alt="pyspark" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="TF" alt="tensorflow" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
