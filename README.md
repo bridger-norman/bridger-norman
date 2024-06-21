@@ -17,13 +17,11 @@
 ---
 
 # Bridger Norman
-Hello, GitHub! 👋
-
-I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome to my GitHub profile!
+Data Science student at Brigham Young University Idaho. Welcome to my GitHub profile!
 
 ## Professional
 
-### 🌱 Education
+### Education
 - Major: Data Science
 - Minor: Business Analytics
 - Minor: Finance
@@ -32,14 +30,14 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 - Class: Senior
 
    
-### 🧰 Tools
+### Tools
 - Python: Polars, PySpark, TensorFlow
 - R: Tidyverse, Predictive Modeling
 - Tableau, Power BI: DAX
 - SQL: SSAS, MySQL, CTEs
 - Excel: Lookups, Pivots, Macros
   
-### ⭐ Skills
+### Skills
 - Effective Written and Oral Communication
 - Knowledge of Business and Finance
 - Problem Solving, Analytical Thinking
@@ -47,19 +45,11 @@ I'm Bridger, a Data Science student at Brigham Young University Idaho. Welcome t
 - Leadership, Teamwork, Decision Making
 - Ability to quickly Adapt and Learn New Skills
 
-### 👨‍💼 Experience
+### Experience
 - Data Science Consultant: DataThink, Feb 24 - Present
 - Technical Project Manager: Idaho Entrepreneur Center, Jan 24 - Jul 24
 - Part-Time Data Analyst: Brigham Young University Idaho, April 23 - April 24
 - Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
-
-## Personal
-
-- 📖 In my free time I love to read fiction books, my favorite series thus far is Dune! I have aspirations one day to be an author and share stories with the world just like my favorite authors.
-- 🔪 I have an obsession for knives and all things EDC (Everyday Carry)! I always have at the bare minimum a pocket knife on me.
-- 🎮 I enjoy causal gaming, preferably The Legend of Zelda franchise.
-- 👟 I also am very active, running, hiking, and swimming are some of my favorite activities. 
-
 
 ## Let's Connect!
 
