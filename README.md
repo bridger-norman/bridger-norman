@@ -30,18 +30,11 @@ Data Science student at Brigham Young University Idaho. Welcome to my GitHub pro
    
 ### Tools
 - Python: Polars, PySpark, TensorFlow
-- R: Tidyverse, Predictive Modeling
+- R: Tidyverse, ggplot, Predictive Modeling
 - Tableau, Power BI: DAX
 - SQL: SSAS, MySQL, CTEs
 - Excel: Lookups, Pivots, Macros
   
-### Skills
-- Effective Written and Oral Communication
-- Knowledge of Business and Finance
-- Problem Solving, Analytical Thinking
-- Statistical Hypothesis Testing
-- Leadership, Teamwork, Decision Making
-- Ability to quickly Adapt and Learn New Skills
 
 ### Experience
 - Data Science Consultant: DataThink, Feb 24 - Present
