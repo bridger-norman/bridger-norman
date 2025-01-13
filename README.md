@@ -17,22 +17,21 @@
 # Bridger Norman
 Data Science student at Brigham Young University Idaho. Welcome to my GitHub profile!
 
-## Professional
 
 ### Education
 - Major: Data Science
 - Minor: Business Analytics
 - Minor: Finance
 - Certificate: Machine Learning
-- GPA: 3.97/4.0
+- GPA: 3.95/4.0
 - Class: Senior
 
    
 ### Tools
 - Python: Polars, PySpark, TensorFlow
-- R: Tidyverse, ggplot, Predictive Modeling
-- Tableau, Power BI: DAX
+- R: Tidyverse, ggplot, Predictive Modeling, package development
 - SQL: SSAS, MySQL, CTEs
+- Tableau, Power BI: DAX
 - Excel: Lookups, Pivots, Macros
   
 
