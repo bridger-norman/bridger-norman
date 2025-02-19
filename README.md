@@ -15,7 +15,6 @@
 ---
 
 # Bridger Norman
-Data Science student at Brigham Young University Idaho. Welcome to my GitHub profile!
 
 ### Education
 - Brigham Youn Univerisy - Idaho
