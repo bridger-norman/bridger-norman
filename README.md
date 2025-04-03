@@ -17,7 +17,7 @@
 # Bridger Norman
 
 ### Education
-- Brigham Youn Univerisy - Idaho
+- Brigham Young Univerisy - Idaho
 - Major: Data Science
 - Minor: Business Analytics
 - Minor: Finance
