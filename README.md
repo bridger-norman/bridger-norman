@@ -8,7 +8,7 @@
    <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/ggplot2.png"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg"  title="pyspark" alt="pyspark" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="TF" alt="tensorflow" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
@@ -29,7 +29,6 @@
 - R: Tidyverse, ggplot, Predictive Modeling, package development
 - SQL: SSAS, MySQL, CTEs
 - Tableau, Power BI: DAX
-- Excel: Lookups, Pivots, Macros
 
 ### Experience
 - Data Science Consultant: DataThink, Feb 24 - Present
