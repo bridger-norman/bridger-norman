@@ -1,3 +1,4 @@
+<!-- 
 ---
 <div align = 'center' >
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -6,15 +7,25 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
    <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/tidyverse.png"  title="TidyVerse" alt="TidyVerse" width="40" height="40"/>&nbsp;
    <img src="https://github.com/bridger-norman/bridger-norman/blob/main/images/ggplot2.png"  title="plotly" alt="ploty" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg"  title="pyspark" alt="pyspark" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="TF" alt="tensorflow" width="40" height="40"/>&nbsp;
-<!--    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> 
 
----
+--- 
+-->
 
 # Bridger Norman
+
+### Experience
+- Data Science Consultant: DataThink, Feb 24 - Present
+- Technical Project Manager: Idaho Entrepreneur Center, Jan 24 - Jul 24
+- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - April 24
+- Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
+
+### Tools
+- Python: Polars, PySpark, TensorFlow
+- R: Tidyverse, ggplot, Predictive Modeling, package development
+- SQL: SSAS, MySQL, CTEs
+- Tableau, Power BI: DAX
 
 ### Education
 - Brigham Young Univerisy - Idaho
@@ -23,18 +34,6 @@
 - Minor: Finance
 - Certificate: Machine Learning
 - GPA: 3.95/4.0
-   
-### Tools
-- Python: Polars, PySpark, TensorFlow
-- R: Tidyverse, ggplot, Predictive Modeling, package development
-- SQL: SSAS, MySQL, CTEs
-- Tableau, Power BI: DAX
-
-### Experience
-- Data Science Consultant: DataThink, Feb 24 - Present
-- Technical Project Manager: Idaho Entrepreneur Center, Jan 24 - Jul 24
-- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - April 24
-- Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
 
 ## Let's Connect!
 
