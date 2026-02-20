@@ -16,7 +16,8 @@
 # Bridger Norman
 
 ### Experience
-- Data Science Consultant: DataThink, Feb 24 - Present
+- Data Scientist: Telperian, Feb 26 - Pressent
+- Data Science Consultant: DataThink, Feb 24 - Feb 26
 - Technical Project Manager: Idaho Entrepreneur Center, Jan 24 - Jul 24
 - Part-Time Data Analyst: Brigham Young University Idaho, April 23 - April 24
 - Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
