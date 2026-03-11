@@ -16,11 +16,11 @@
 # Bridger Norman
 
 ### Experience
-- Data Scientist: Telperian, Feb 26 - Pressent
-- Data Science Consultant: DataThink, Feb 24 - Feb 26
-- Technical Project Manager: Idaho Entrepreneur Center, Jan 24 - Jul 24
-- Part-Time Data Analyst: Brigham Young University Idaho, April 23 - April 24
-- Data Science Intern: LabStats (market-leading SaaS company), May 22 - September 22
+- Data Scientist: Telperian, Feb 2026 - Pressent
+- Data Science Consultant: DataThink, Feb 2024 - Feb 2026
+- Technical Project Manager: Idaho Entrepreneur Center, Jan 2024 - Jul 2024
+- Part-Time Data Analyst: Brigham Young University Idaho, April 2023 - April 2024
+- Data Science Intern: LabStats, May 2022 - September 2022
 
 ### Tools
 - Python: Polars, PySpark, TensorFlow
