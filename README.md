@@ -38,6 +38,6 @@
 
 ## Let's Connect!
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bridgern)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridgern/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
