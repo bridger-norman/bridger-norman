@@ -16,7 +16,7 @@
 # Bridger Norman
 
 ### Experience
-- Data Scientist: Telperian, Feb 2026 - Pressent
+- Data Scientist: Telperian, Feb 2026 - Present
 - Data Science Consultant: DataThink, Feb 2024 - Feb 2026
 - Technical Project Manager: Idaho Entrepreneur Center, Jan 2024 - Jul 2024
 - Part-Time Data Analyst: Brigham Young University Idaho, April 2023 - April 2024
