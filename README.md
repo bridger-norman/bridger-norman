@@ -22,12 +22,6 @@
 - Part-Time Data Analyst: Brigham Young University Idaho, April 2023 - April 2024
 - Data Science Intern: LabStats, May 2022 - September 2022
 
-### Tools
-- Python: Polars, PySpark, TensorFlow
-- R: Tidyverse, ggplot, Predictive Modeling, package development
-- SQL: SSAS, MySQL, CTEs
-- Tableau, Power BI: DAX
-
 ### Education
 - Brigham Young Univerisy - Idaho
 - Major: Data Science
